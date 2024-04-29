@@ -10,4 +10,4 @@
 4. Return to VSCode and start working on your Challenges.
 5. When you want to check if your code is correct, save changes, go to Chrome and refresh the page.
     - Test results and possible crashes will show in the Console.
-    - If the new codes contains a graphical component it will display in the browser window.
+    - If the new codes contains a graphical component it will display in the browser window. new
